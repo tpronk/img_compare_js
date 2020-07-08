@@ -1,0 +1,12 @@
+{
+  "name": "img_compare",
+  "version": "1.0.0",
+  "description": "Reproduces PychoPy's RMS method for comparing the similary of two pictures",
+  "main": "js_img_compare.js",
+  "author": "Thomas Pronk",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mathjs": "^7.0.2",
+    "pngjs": "^5.0.0"
+  }
+}
